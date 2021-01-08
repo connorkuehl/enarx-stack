@@ -1,9 +1,9 @@
 [submodule "enarx-keepldr"]
 	path = enarx-keepldr
-	url = git@github.com:enarx/enarx-keepldr.git
+	url = https://github.com/enarx/enarx-keepldr.git
 [submodule "enarx-wasmldr"]
 	path = enarx-wasmldr
-	url = https://github.com/enarx/enarx-wasmldr
+	url = https://github.com/enarx/enarx-wasmldr.git
 [submodule "demo"]
 	path = demo
 	url = https://github.com/enarx/demo
